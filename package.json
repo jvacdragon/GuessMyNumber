@@ -9,7 +9,7 @@
   },
   "author": "jvacdragon",
   "license": "ISC",
-  " devDependencies": {
+  "dependencies": {
     "parcel": "^2.6.0"
   }
 }
